@@ -13,6 +13,8 @@ pygame.init()
 ventana = pygame.display.set_mode((ancho,alto))
 fondo = pygame.image.load("imagenes/fondo.png")
 pygame.display.set_caption("juego Chido")
+
+#Algo
 def main():
     
 
